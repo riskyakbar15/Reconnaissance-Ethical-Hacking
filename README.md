@@ -84,7 +84,9 @@ Berdasarkan hasil *Information Gathering*, ditemukan bahwa:
 * **Target Lab (VulnOS)** sangat rentan karena menggunakan layanan yang sudah *End-of-Life* (EOL) dan memiliki backdoor yang diketahui publik (Critical Vulnerabilities).
 
 ---
+
 *Dibuat untuk memenuhi Tugas Besar Semester Ganjil 2025.*
+
 ---
 
 > **Disclaimer:** Segala tindakan reconnaissance pada target publik dilakukan secara pasif (non-intrusive) untuk tujuan pendidikan dan tidak merusak sistem.
